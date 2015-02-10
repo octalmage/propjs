@@ -1,6 +1,6 @@
 {
   "name": "propjs",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Check global DNS propagation.",
   "main": "prop.js",
   "keywords": [

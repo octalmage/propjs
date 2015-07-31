@@ -1,6 +1,6 @@
 {
   "name": "propjs",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Check global DNS propagation.",
   "main": "prop.js",
   "keywords": [
@@ -13,7 +13,7 @@
   "dependencies": {
     "commander": "^2.6.0"
   },
-    "bin": {
-      "prop": "prop.js"
-    }
+  "bin": {
+    "prop": "prop.js"
+  }
 }
